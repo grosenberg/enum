@@ -1,6 +1,6 @@
 ### Go Rich Enums
 
-Concise, expressive implementation of rich enums in Go.  
+Concise, expressive implementation of rich enums in Go.
 
 A singleton generic base implementation that provides all essential enum behaviors, including global uniqueness and mutual-comparability. Rich enum sets are realized effectively as separate type-specializations of the generic base.  These type-specializations are minimal and can be easily implemented in one or more user packages.
 
